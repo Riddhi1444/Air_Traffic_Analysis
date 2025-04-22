@@ -36,6 +36,3 @@ The air traffic dataset analysis revealed key patterns and trends across airline
 •	Terminal and boarding area usage analysis highlighted specific high-traffic zones, pointing to potential areas for operational efficiency improvements.
 •	Correlation and time-series analysis demonstrated consistent growth in passenger numbers post-specific periods, which may align with external factors such as policy changes or global events.
 These findings can support data-driven decision-making across airline operations, infrastructure planning, and customer service strategies.
-
-
-![image](https://github.com/user-attachments/assets/2c375779-5a51-4b85-8760-51f9e89003e6)
